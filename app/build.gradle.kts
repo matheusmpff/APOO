@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = "com.example.Main"
+    mainClass = "com.gesac.disciplinas.Main"
 }
 
 tasks.named<Test>("test") {
