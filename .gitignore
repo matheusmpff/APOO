@@ -4,3 +4,9 @@
 # Ignore Gradle build output directory
 build
 app/bin
+
+# JDTLS/Eclipse stuff
+app/.classpath
+.settings
+.project
+app/.settings
