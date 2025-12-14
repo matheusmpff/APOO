@@ -22,5 +22,16 @@ Foram selecionadas 2 funcionalidades do diagrama de classes para ser implementad
 + COLOCAR
 
 # Como rodar
+Para rodar o projeto é preciso cumprir alguns requisitos e comandos para que seja executado corretamente
+## Requisitos
 
-A forma para rodar o projeto esta descrita no arquivo **HOW_TO_RUN.md** presente no resposiório
+- JAVA 21(JDK)
+- GRANDLE (Opcional)
+
+## Comandos
+
+Após ter instalado java basta rodar os seguintes comandos:
+```
+./gradlew build
+java -jar app/build/libs/app.jar
+```
