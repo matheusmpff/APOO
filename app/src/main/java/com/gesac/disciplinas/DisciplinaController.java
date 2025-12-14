@@ -12,11 +12,11 @@ public class DisciplinaController {
         throw new UnsupportedOperationException();
     }
 
-    public void editarDisciplina(Integer id, Map dados) {
+    public void editarDisciplina(int id, Map dados) {
         throw new UnsupportedOperationException();
     }
 
-    public void removerDisciplina(Integer id) {
+    public void removerDisciplina(int id) {
         throw new UnsupportedOperationException();
     }
 
@@ -24,7 +24,7 @@ public class DisciplinaController {
         throw new UnsupportedOperationException();
     }
 
-    public Disciplina visualizarDisciplina(Integer id) {
+    public Disciplina visualizarDisciplina(int id) {
         throw new UnsupportedOperationException();
     }
 
@@ -32,15 +32,15 @@ public class DisciplinaController {
         throw new UnsupportedOperationException();
     }
 
-    public void adicionarAtividade(Integer idDisciplina, Integer idAtividade, Map dados) {
+    public void adicionarAtividade(int idDisciplina, int idAtividade, Map dados) {
         throw new UnsupportedOperationException();
     }
 
-    public void editarAtividade(Integer idDisciplina, Integer idAtividade, Map dados) {
+    public void editarAtividade(int idDisciplina, int idAtividade, Map dados) {
         throw new UnsupportedOperationException();
     }
 
-    public void removerAtividade(Integer idDisciplina, Integer idAtividade) {
+    public void removerAtividade(int idDisciplina, int idAtividade) {
         throw new UnsupportedOperationException();
     }
 }

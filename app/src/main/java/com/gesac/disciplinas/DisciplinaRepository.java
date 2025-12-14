@@ -14,11 +14,11 @@ public class DisciplinaRepository {
         throw new UnsupportedOperationException();
     }
 
-    public void remover(Integer id) {
+    public void remover(int id) {
         throw new UnsupportedOperationException();
     }
 
-    public Disciplina buscar(Integer id) {
+    public Disciplina buscar(int id) {
         throw new UnsupportedOperationException();
     }
     
